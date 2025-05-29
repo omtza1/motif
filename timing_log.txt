@@ -1,0 +1,5 @@
+Timing results for motif generation:
+n=1: 0 motifs found in 0.00 seconds
+n=2: 2 motifs found in 0.00 seconds
+n=3: 13 motifs found in 0.01 seconds
+n=4: 199 motifs found in 4.45 seconds
